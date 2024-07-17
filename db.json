@@ -1,0 +1,19 @@
+{
+    "dogs": [
+      { "id": 1, "name": "Fido", "breed": "Labrador" },
+      { "id": 2, "name": "Rex", "breed": "German Shepherd" }
+    ],
+    "cats": [
+      { "id": 1, "name": "Whiskers", "breed": "Siamese" },
+      { "id": 2, "name": "Fluffy", "breed": "Persian" }
+    ],
+    "users": [
+      { "id": 1, "name": "Alice", "email": "alice@example.com" },
+      { "id": 2, "name": "Bob", "email": "bob@example.com" }
+    ],
+    "robots": [
+      { "id": 1, "name": "R2-D2", "model": "Astromech" },
+      { "id": 2, "name": "C-3PO", "model": "Protocol" }
+    ]
+  }
+  
